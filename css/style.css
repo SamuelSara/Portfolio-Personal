@@ -85,6 +85,7 @@ textarea {
 
 .heading-sec__main {
   display: block;
+  text-decoration: underline;
   font-size: 4rem;
   text-transform: uppercase;
   letter-spacing: 1px;
